@@ -1,0 +1,18 @@
+Title: Impact of rising temperature and changing rainfall on crop yield
+
+Background
+
+Climate change is altering temperature and precipitation patterns.
+It is unclear how far these shifts reduce or improve crop productivity.
+
+Objectives
+
+Analyze how average temperature affects crop yield (MT per hectare).
+Analyze how total precipitation affects crop yield.
+Identify the temperature range beyond which yield declines.
+
+Scope
+
+10 countries
+10 crop types
+Period: 1990 to 2024y, Year.
